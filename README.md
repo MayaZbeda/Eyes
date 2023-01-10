@@ -1,5 +1,7 @@
-# Watchful-Eyes
+# Eyes Exercise
 Move your mouse around the browser window and watch as the eyes track your cursor, blinking curiously as they look.
+
+<img src="Eyes.gif" width='400' />
 
 #How to Run:
 * Download the repository, which should include eyes.js, index.html. and styles.css.
